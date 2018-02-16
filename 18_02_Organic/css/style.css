@@ -1,0 +1,66 @@
+body {
+    font-family: 'Droid Sans', 'Quicksand', sans-serif;
+    color: #f2f2f2;
+    text-align: left;
+}
+
+header {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+footer {
+    font-family: 'Lato', sans-serif;
+    background-color: #e87976;
+    padding: 40px 230px 200px 230px;
+}
+
+#slide {
+    font-family: 'Droid Sans', sans-serif;
+    background-image: url(../images/SlideOrganic.png);
+    height: 940px;
+    padding: 230px;
+}
+
+#home {
+    background-color: #ffffff;
+    padding: 100px 230px 100px 230px;
+}
+
+#leftZone {
+    font-family: 'Droid Sans', sans-serif;
+    color: #fe992a;
+}
+
+#rightZone {
+    font-family: 'Lato', sans-serif;
+    color: #899097;
+}
+
+#titreOrange {
+    font-family: 'Droid Sans', sans-serif;
+    color: #fe992a;
+}
+
+.navbar {
+    background-color: transparent;
+    border-color: transparent;
+    padding: 60px 230px 60px 230px;
+}
+
+a {
+    color: #ffffff;
+}
+
+img {
+    padding: 50px;
+}
+
+.btn {
+    background-color: #fe992a;
+    border: 1px dotted white;
+    margin-top: 30px;
+}
+
+.XXL {
+    font-size: 2em;
+}
